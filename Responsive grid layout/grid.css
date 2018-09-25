@@ -49,6 +49,7 @@
 		width: 99%; 
 	}
 }
+/*=====ANYTHING 720 PIXEL+=====*/
 @media (min-width: 721px){
 /*=====GRID OF FOUR=====*/
 	.span_4_of_4 {
